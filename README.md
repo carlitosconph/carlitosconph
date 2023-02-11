@@ -1,5 +1,8 @@
 # 💫 About Me:
-- I am currently working on an APP with my friends<br>- I am currently learning Kotlin and advanced Python.<br>- Dark mode is superior to light mode.
+:two_hearts: I am a computer science student at UNAM. I would like to be a web developer, especially working in Backend, although I also have Frontend knowledge.<br>
+:computer: I am currently working on an APP with my friends.<br>
+:beers: I am currently learning Kotlin and advanced Python.<br>
+:ghost: Dark mode is superior to light mode.
 
 
 ## 🌐 Socials:
